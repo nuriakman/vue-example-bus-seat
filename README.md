@@ -1,5 +1,7 @@
 # vue-example-bus-seat
 
+Demo Page: https://quetzal-studio.github.io/vue-example-bus-seat/
+
 ## Project setup
 ```
 npm install
